@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/ciscoecosystem/mso-go-client/client"
+	"github.com/andrewb3000/mso-go-client/client"
 )
 
 func TestClientAuthenticate(t *testing.T) {
